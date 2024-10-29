@@ -1,19 +1,16 @@
-/*
-Youtube Tech God
-*/
 const config = `
-HANDLERS=.
-SESSION_ID="Jarvis_d3d4_d896_7cf8_892a"
-SUDO=null
-WORK_TYPE=public
+HANDLERS=/
+SESSION_ID="Jarvis_9f82_7bfb_27fd_a334_7634_dacb_412a_55d3"
+SUDO=212614389153
+WORK_TYPE=private
 ALWAYS_ONLINE=true
 STATUS_VIEW=true
-REJECT_CALL=false
-CALL_BLOCK=false
-SAVE_STATUS=false
-READ_MSG=false
-STICKER_PACKNAME=Tech-God;917466008456
-BOT_INFO=Tech-God;YT-Tech-God;https://files.catbox.moe/so4s1l.mp4
+REJECT_CALL=true
+CALL_BLOCK=true
+SAVE_STATUS=true
+READ_MSG=true
+STICKER_PACKNAME=AcMods
+BOT_INFO=AcMods;AcMods;https://files.catbox.moe/3gn40o.mp4
 `;
 
 
